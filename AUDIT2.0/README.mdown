@@ -1,0 +1,9 @@
+##format
+
+[object name] [sign+money]
+
+eg:
+
+meals -10.5
+deposit +100
+
